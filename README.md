@@ -1,3 +1,4 @@
+# Hello World
 # Introduction
 
 [Cairo](https://cairo-lang.org/) is a programming language for writing provable programs.
